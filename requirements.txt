@@ -1,0 +1,7 @@
+nltk==3.9.1
+xgboost==3.0.0
+transformers==4.51.3
+datasets==3.6.0
+accelerate>=0.26.0
+gensim==4.3.3
+contractions==0.1.73
