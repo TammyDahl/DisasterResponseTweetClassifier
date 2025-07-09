@@ -1,11 +1,11 @@
 # Disaster Response Tweet Classifier
 _Collaborative Project | SDSU CS 545 – Machine Learning_
 
+Group Members: Tammy Dahl, Tommy Kieu, Kyle Krick, Roger Reinhardt, Jordan Spencer
+
 ## Predicting Natural Disaster Tweets Using Binary Classification
 
 This group project was built for SDSU’s Machine Learning course and is based on the [Kaggle competition: Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview). The goal was to classify tweets during disasters into actionable categories to support emergency response systems. I contributed to text preprocessing, model development, and hyperparameter tuning for a multi-output random forest classifier. We deployed the final model using Flask and SQLite to demonstrate how unstructured text data can be transformed into meaningful, actionable output. This project highlights my experience with NLP workflows, model evaluation, and end-to-end machine learning deployment.
-
-Group Members: Tammy Dahl, Tommy Kieu, Kyle Krick, Roger Reinhardt, Jordan Spencer
 
 Environment: This project may be run on jupyterhub.sdsu.edu using the PyTorch notebook with 1 GPU.
 
