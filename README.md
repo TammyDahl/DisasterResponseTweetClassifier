@@ -1,12 +1,12 @@
 # Disaster Response Tweet Classifier
+Collaborative Project | SDSU CS 545 – Machine Learning
 
 ## Predicting Natural Disaster Tweets Using Binary Classification
 
-This is a group project for a machine learning class at San Diego State. We are basing our project on the Kaggle competition [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview)
+This group project was built for SDSU’s Machine Learning course and is based on the [Kaggle competition: Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview). The goal was to classify tweets during disasters into actionable categories to support emergency response systems. I contributed to text preprocessing, model development, and hyperparameter tuning for a multi-output random forest classifier. We deployed the final model using Flask and SQLite to demonstrate how unstructured text data can be transformed into meaningful, actionable output. This project highlights my experience with NLP workflows, model evaluation, and end-to-end machine learning deployment.
 
 Group Members: Tammy Dahl, Tommy Kieu, Kyle Krick, Roger Reinhardt, Jordan Spencer
-
-These notebooks may be run on [jupyterhub.sdsu.edu](https://jupyterhub.sdsu.edu) with the PyTorch notebook and 1 GPU.
+Environment: This project may be run on jupyterhub.sdsu.edu using the PyTorch notebook with 1 GPU.
 
 ## Install Additional Packages
 Assuming that you are running this from the PyTorch notebook:
