@@ -58,4 +58,5 @@ You may load up and run our model against arbitrary text using the [prediction](
 
 ## Results
 Our best model, the modular ensemble, gained a competition score of 0.83849 placing us at position 76 on the leaderboard at the time of writing. 
+
 ![](./submission.png)
